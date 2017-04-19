@@ -5,8 +5,7 @@
 
 - [Install node globally](https://docs.npmjs.com/getting-started/installing-node)
 - run `npm install` (may need to be run as `sudo`)
-- run `grunt`
-- run `grunt prod` for production cdn files
+- run `grunt` or `grunt prod` for production cdn files
 
 
 ## Project Standards
