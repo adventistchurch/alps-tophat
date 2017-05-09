@@ -44,3 +44,7 @@
     color: #ffffff;
   }
 }
+// Accounting for the Wordpress Admin bar.
+.admin-bar #th-bar {
+    top: 32px !important;
+}
